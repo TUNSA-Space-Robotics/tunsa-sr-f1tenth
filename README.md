@@ -5,10 +5,10 @@ This repository contains our ROS workspace for the [F1TENTH Autonomous Vehicle C
 Lab 1 - Introduction to ROS
 =============================
 
-| **Goals:** 
+**Goals:** 
 | The goal of this lab assignment is to get you familiar with the various paradigms and uses of ROS and how it can be used to build robust robotic systems. ROS is a meta-operating system which simplifies inter-process communication between elements of a robot's perception planning and control systems.
 
-| **Learning Outcomes:** 
+**Learning Outcomes:** 
 | The following fundamentals should be understood by the students upon completion of this lab:
 
 	* Understanding the directory structure and framework of ROS
@@ -24,19 +24,19 @@ Lab 1 - Introduction to ROS
 
 **Allotted Time:** 1 week
 
-| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab1/latex>`_ 
-|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
+**Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab1/latex>`_ 
+	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 
 Lab 2 - Automatic Emergency Braking
 ======================================
 Tip:: Before starting this lab, review :ref:`Lecture 2 <doc_lecture02>` to ensure you are familiar with the material.
 
-| **Goals:**
+**Goals:**
 | The goal of this lab is to develop a safety node for the race cars that will stop the car from collision when travelling at higher velocities. We will implement Time to Collision using the LaserScan message in the simulator. 
 
-| **Learning Outcomes:**
-| The following fundamentals should be understood by the students upon completion of this lab:
+**Learning Outcomes:**
+The following fundamentals should be understood by the students upon completion of this lab:
 
 	* Using the LaserScan message in ROS
 	* Time to Collision (TTC)
@@ -46,8 +46,8 @@ Tip:: Before starting this lab, review :ref:`Lecture 2 <doc_lecture02>` to ensur
 
 **Allotted Time:** 1 week
 
-| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab2>`_ 
-|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
+**Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab2>`_ 
+	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 
 Lab 3 - Wall Following
@@ -55,11 +55,11 @@ Lab 3 - Wall Following
 
 Tip:: Before starting this lab, review :ref:`Lecture 4 <doc_lecture04>` to ensure you are familiar with the material.
 
-| **Goals:**
-| In this lab, you will implement a PID (proportional integral derivative) controller to make the car drive parallel to the walls of a corridor at a fixed distance. At a high level, you will accomplish this by taking laser scan distances from the Hokuyo LiDAR, computing the required steering angle and speed (drive parameters), an publishing these to the VESC to drive the car. 
+**Goals:**
+In this lab, you will implement a PID (proportional integral derivative) controller to make the car drive parallel to the walls of a corridor at a fixed distance. At a high level, you will accomplish this by taking laser scan distances from the Hokuyo LiDAR, computing the required steering angle and speed (drive parameters), an publishing these to the VESC to drive the car. 
 
-| **Learning Outcomes:**
-| The following fundamentals should be understood by the students upon completion of this lab:
+**Learning Outcomes:**
+The following fundamentals should be understood by the students upon completion of this lab:
 
 	* PID controllers
 	* Driving the car autonomously via Wall Following
@@ -68,19 +68,19 @@ Tip:: Before starting this lab, review :ref:`Lecture 4 <doc_lecture04>` to ensur
 
 **Allotted Time:** 1 Week
 
-| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab3>`_ 
-|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
+**Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab3>`_ 
+	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 Lab 4 - Follow the Gap
 ===========================================
 
 Tip:: Before starting this lab, review the :ref:`Lecture 6 <doc_lecture06>` to ensure you are familiar with the material.
 
-| **Goals:**
-| In this lab, you will implement a reactive algorithm for obstacle avoidance. While the base starter code defines an implementation of the F1TENTH Follow the Gap Algorithm, you are allowed to submit in C++, and encouraged to try different reactive algorithms or a combination of several. In total, the python code for the algorithm is only about 120 lines.
+**Goals:**
+In this lab, you will implement a reactive algorithm for obstacle avoidance. While the base starter code defines an implementation of the F1TENTH Follow the Gap Algorithm, you are allowed to submit in C++, and encouraged to try different reactive algorithms or a combination of several. In total, the python code for the algorithm is only about 120 lines.
 
-| **Learning Outcomes:**
-| The following fundamental should be understood by the students upon completion of this lab:
+**Learning Outcomes:**
+The following fundamental should be understood by the students upon completion of this lab:
 
 	* Reactive methods for obstacle avoidance
 
@@ -97,11 +97,11 @@ Note:: This is a **GROUP** assignment.
 
 Tip:: Before starting this lab, review :ref:`Lecture 9 <doc_lecture09>` and :ref:`Lecture 10 <doc_lecture10>` ensure you are familiar with the material.
 
-| **Goals:**
-| This lab deals with the problem of localization in Robotics and provides an introduction to localization and why is it important in the autonomy stack. Through the lab, one of the most fundamental algorithms of localization, *scan matching*, is implemented. It uses the *Iterative Closest Point* algorithm which has been introduced in class. You can take reference from the `Andre Censi PLICP paper <https://censi.science/pub/research/2008-icra-plicp.pdf>`_. By the end of this lab you will have a certain level of knowledge and expertise in localization of a robot given a mapped environment and how it is important in path planning and trajectory tracking.
+**Goals:**
+This lab deals with the problem of localization in Robotics and provides an introduction to localization and why is it important in the autonomy stack. Through the lab, one of the most fundamental algorithms of localization, *scan matching*, is implemented. It uses the *Iterative Closest Point* algorithm which has been introduced in class. You can take reference from the `Andre Censi PLICP paper <https://censi.science/pub/research/2008-icra-plicp.pdf>`_. By the end of this lab you will have a certain level of knowledge and expertise in localization of a robot given a mapped environment and how it is important in path planning and trajectory tracking.
 
-| **Learning Outcomes:**
-| The following fundamental should be understood by the students upon completion of this lab:
+**Learning Outcomes:**
+The following fundamental should be understood by the students upon completion of this lab:
 
 	* Localization
 	* Odometry Estimation
@@ -113,4 +113,4 @@ Tip:: Before starting this lab, review :ref:`Lecture 9 <doc_lecture09>` and :ref
 
 **Allotted Time:** 1 week
 
-| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab5>`_ 
+**Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab5>`_ 
