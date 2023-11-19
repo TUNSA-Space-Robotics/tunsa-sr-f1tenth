@@ -1,6 +1,6 @@
 # TUNSA Space Robotics F1TENTH Workspace
 
-This repository contains our ROS workspace for the [F1TENTH Autonomous Vehicle Course](https://f1tenth-coursekit.readthedocs.io/en/stable/introduction/overview.html) [labs](https://f1tenth-coursekit.readthedocs.io/en/stable/assignments/labs/index.html) provided by the University of Pennsylvania. We followed the course's lectures and worked through the first 5 labs following this [plan](https://docs.google.com/spreadsheets/d/12VkkMe5WgANmVBByFx13zXS2Ez5oGKWnXdzBt8jrHEU/edit?usp=sharing).
+This ROS workspace contains our proposed solutions for the first 5 [labs](https://f1tenth-coursekit.readthedocs.io/en/stable/assignments/labs/index.html) of the [F1TENTH Autonomous Vehicle Course](https://f1tenth-coursekit.readthedocs.io/en/stable/introduction/overview.html) provided by the University of Pennsylvania. During our work, we followed this [plan](https://docs.google.com/spreadsheets/d/12VkkMe5WgANmVBByFx13zXS2Ez5oGKWnXdzBt8jrHEU/edit?usp=sharing).
 
 Lab 1 - Introduction to ROS
 =============================
@@ -22,9 +22,7 @@ Lab 1 - Introduction to ROS
 
 **Required Skills:** Python or C++ (or at least some programming experience)
 
-**Allotted Time:** 1 week
-
-**Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab1/latex>`_ 
+**Lab Template Repository:** [Github Repository](https://github.com/f1tenth/f1tenth_labs/tree/master/lab1/latex>)
 	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 
@@ -43,15 +41,11 @@ The following fundamentals should be understood by the students upon completion 
 
 **Required Skills:** Basics of ROS from Lab 1, Python or C++ (or at least some programming experience)
 
-**Allotted Time:** 1 week
-
-**Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab2>`_ 
+**Lab Template Repository:** [Github Repository](https://github.com/f1tenth/f1tenth_labs/tree/master/lab2>)
 	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
-
 
 Lab 3 - Wall Following
 =======================
-
 
 **Goals:**
 In this lab, you will implement a PID (proportional integral derivative) controller to make the car drive parallel to the walls of a corridor at a fixed distance. At a high level, you will accomplish this by taking laser scan distances from the Hokuyo LiDAR, computing the required steering angle and speed (drive parameters), an publishing these to the VESC to drive the car. 
@@ -64,9 +58,7 @@ The following fundamentals should be understood by the students upon completion 
 
 **Required Skills:** ROS, Python/C++
 
-**Allotted Time:** 1 Week
-
-**Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab3>`_ 
+**Lab Template Repository:** [Github Repository]https://github.com/f1tenth/f1tenth_labs/tree/master/lab3>)
 	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 Lab 4 - Follow the Gap
@@ -80,11 +72,9 @@ The following fundamental should be understood by the students upon completion o
 
 	* Reactive methods for obstacle avoidance
 
-**Required Skills:** ROS, Python/C++
+**Lab Template Allotted Time:** 1 week
 
-**Allotted Time:** 1 week
-
-| **Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab4>`_ 
+| **Repository:** [Github Repository](https://github.com/f1tenth/f1tenth_labs/tree/master/lab4>) 
 |	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 Lab 5 - Scan Matching
@@ -104,6 +94,4 @@ The following fundamental should be understood by the students upon completion o
 
 **Required Skills:** ROS, Python/C++
 
-**Allotted Time:** 1 week
-
-**Repository:** `Github Repository <https://github.com/f1tenth/f1tenth_labs/tree/master/lab5>`_ 
+**Lab Template Repository:** (Github Repository)[https://github.com/f1tenth/f1tenth_labs/tree/master/lab5]
