@@ -1,15 +1,15 @@
 # TUNSA Space Robotics F1TENTH Workspace
 
-This ROS workspace contains our proposed solutions for the first 5 [labs](https://f1tenth-coursekit.readthedocs.io/en/stable/assignments/labs/index.html) of the [F1TENTH Autonomous Vehicle Course](https://f1tenth-coursekit.readthedocs.io/en/stable/introduction/overview.html) provided by the University of Pennsylvania. During our work, we followed this [plan](https://docs.google.com/spreadsheets/d/12VkkMe5WgANmVBByFx13zXS2Ez5oGKWnXdzBt8jrHEU/edit?usp=sharing).
+This ROS workspace contains our proposed solutions for the first 5 [labs](https://f1tenth-coursekit.readthedocs.io/en/stable/assignments/labs/index.html) of the [F1TENTH Autonomous Vehicle Course](https://f1tenth-coursekit.readthedocs.io/en/stable/introduction/overview.html) provided by the University of Pennsylvania. During our work, we followed this [plan](https://docs.google.com/spreadsheets/d/12VkkMe5WgANmVBByFx13zXS2Ez5oGKWnXdzBt8jrHEU/edit?usp=sharing). For each lab, we were provided with a template repository, which contains the latex source files for lab instructions as well as any skeleton code.
 
 Lab 1 - Introduction to ROS
 =============================
 
 **Goals:** 
-| The goal of this lab assignment is to get you familiar with the various paradigms and uses of ROS and how it can be used to build robust robotic systems. ROS is a meta-operating system which simplifies inter-process communication between elements of a robot's perception planning and control systems.
+The goal of this lab assignment is to get you familiar with the various paradigms and uses of ROS and how it can be used to build robust robotic systems. ROS is a meta-operating system that simplifies inter-process communication between elements of a robot's perception planning and control systems.
 
 **Learning Outcomes:** 
-| The following fundamentals should be understood by the students upon completion of this lab:
+The following fundamentals should be understood by the students upon completion of this lab:
 
 	* Understanding the directory structure and framework of ROS
 	* Understanding how publishers and subscribers are implemented
@@ -22,9 +22,7 @@ Lab 1 - Introduction to ROS
  
 **Required Skills:** Python or C++ (or at least some programming experience)
 
-[**Lab Template Repository:**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab1/latex>)
-	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
-
+[**Lab Template Repository**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab1/latex>)
 
 Lab 2 - Automatic Emergency Braking
 ======================================
@@ -41,8 +39,7 @@ The following fundamentals should be understood by the students upon completion 
 
 **Required Skills:** Basics of ROS from Lab 1, Python or C++ (or at least some programming experience)
 
-[**Lab Template Repository:**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab2>)
-	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
+[**Lab Template Repository**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab2>)
 
 Lab 3 - Wall Following
 =======================
@@ -58,8 +55,7 @@ The following fundamentals should be understood by the students upon completion 
 
 **Required Skills:** ROS, Python/C++
 
-[**Lab Template Repository:**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab3>)
-	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
+[**Lab Template Repository**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab3>)
 
 Lab 4 - Follow the Gap
 ===========================================
@@ -74,8 +70,7 @@ The following fundamental should be understood by the students upon completion o
 
 **Allotted Time:** 1 week
 
-[**Lab Template Repository:**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab4>) 
-	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
+[**Lab Template Repository**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab4>) 
 
 Lab 5 - Scan Matching
 ======================
@@ -94,4 +89,4 @@ The following fundamental should be understood by the students upon completion o
 
 **Required Skills:** ROS, Python/C++
 
-[**Lab Template Repository:**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab5)
+[**Lab Template Repository**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab5)
