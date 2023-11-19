@@ -19,10 +19,10 @@ Lab 1 - Introduction to ROS
 	* Working with launch files
 	* Working with Rviz
 	* Working with Bag files
-
+ 
 **Required Skills:** Python or C++ (or at least some programming experience)
 
-**Lab Template Repository:** [Github Repository](https://github.com/f1tenth/f1tenth_labs/tree/master/lab1/latex>)
+[**Lab Template Repository:**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab1/latex>)
 	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 
