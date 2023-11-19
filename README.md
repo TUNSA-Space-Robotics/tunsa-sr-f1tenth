@@ -81,7 +81,7 @@ Lab 5 - Scan Matching
 ======================
 
 **Goals:**
-This lab deals with the problem of localization in Robotics and provides an introduction to localization and why is it important in the autonomy stack. Through the lab, one of the most fundamental algorithms of localization, *scan matching*, is implemented. It uses the *Iterative Closest Point* algorithm which has been introduced in class. You can take reference from the `Andre Censi PLICP paper <https://censi.science/pub/research/2008-icra-plicp.pdf>`_. By the end of this lab you will have a certain level of knowledge and expertise in localization of a robot given a mapped environment and how it is important in path planning and trajectory tracking.
+This lab deals with the problem of localization in Robotics and provides an introduction to localization and why is it important in the autonomy stack. Through the lab, one of the most fundamental algorithms of localization, *scan matching*, is implemented. It uses the *Iterative Closest Point* algorithm which has been introduced in class. You can take reference from the [Andre Censi PLICP paper](https://censi.science/pub/research/2008-icra-plicp.pdf). By the end of this lab you will have a certain level of knowledge and expertise in localization of a robot given a mapped environment and how it is important in path planning and trajectory tracking.
 
 **Learning Outcomes:**
 The following fundamental should be understood by the students upon completion of this lab:
