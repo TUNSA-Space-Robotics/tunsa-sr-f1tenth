@@ -41,7 +41,7 @@ The following fundamentals should be understood by the students upon completion 
 
 **Required Skills:** Basics of ROS from Lab 1, Python or C++ (or at least some programming experience)
 
-**Lab Template Repository:** [Github Repository](https://github.com/f1tenth/f1tenth_labs/tree/master/lab2>)
+[**Lab Template Repository:**]](https://github.com/f1tenth/f1tenth_labs/tree/master/lab2>)
 	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 Lab 3 - Wall Following
@@ -58,7 +58,7 @@ The following fundamentals should be understood by the students upon completion 
 
 **Required Skills:** ROS, Python/C++
 
-**Lab Template Repository:** [Github Repository]https://github.com/f1tenth/f1tenth_labs/tree/master/lab3>)
+[**Lab Template Repository:**]https://github.com/f1tenth/f1tenth_labs/tree/master/lab3>)
 	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 Lab 4 - Follow the Gap
@@ -72,10 +72,10 @@ The following fundamental should be understood by the students upon completion o
 
 	* Reactive methods for obstacle avoidance
 
-**Lab Template Allotted Time:** 1 week
+**Allotted Time:** 1 week
 
-| **Repository:** [Github Repository](https://github.com/f1tenth/f1tenth_labs/tree/master/lab4>) 
-|	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
+[**Lab Template Repository:**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab4>) 
+	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 Lab 5 - Scan Matching
 ======================
@@ -94,4 +94,4 @@ The following fundamental should be understood by the students upon completion o
 
 **Required Skills:** ROS, Python/C++
 
-**Lab Template Repository:** (Github Repository)[https://github.com/f1tenth/f1tenth_labs/tree/master/lab5]
+[**Lab Template Repository:**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab5)
