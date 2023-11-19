@@ -1,4 +1,4 @@
-# TUNSA Space Robotics F1TENTH Workspace
+# TUNSA Space Robotics F1TENTH Autonomous Vehicle Course Workspace
 
 This ROS workspace contains our proposed solutions for the first 5 [labs](https://f1tenth-coursekit.readthedocs.io/en/stable/assignments/labs/index.html) of the [F1TENTH Autonomous Vehicle Course](https://f1tenth-coursekit.readthedocs.io/en/stable/introduction/overview.html) provided by the University of Pennsylvania. During our work, we followed this [plan](https://docs.google.com/spreadsheets/d/12VkkMe5WgANmVBByFx13zXS2Ez5oGKWnXdzBt8jrHEU/edit?usp=sharing). For each lab, we were provided with a template repository, which contains the latex source files for lab instructions as well as any skeleton code.
 
