@@ -41,7 +41,7 @@ The following fundamentals should be understood by the students upon completion 
 
 **Required Skills:** Basics of ROS from Lab 1, Python or C++ (or at least some programming experience)
 
-[**Lab Template Repository:**]](https://github.com/f1tenth/f1tenth_labs/tree/master/lab2>)
+[**Lab Template Repository:**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab2>)
 	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 Lab 3 - Wall Following
@@ -58,7 +58,7 @@ The following fundamentals should be understood by the students upon completion 
 
 **Required Skills:** ROS, Python/C++
 
-[**Lab Template Repository:**]https://github.com/f1tenth/f1tenth_labs/tree/master/lab3>)
+[**Lab Template Repository:**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab3>)
 	The repository contains the latex source files as well as any skeleton code. Compile the latex source files to view the most up to date handout.
 
 Lab 4 - Follow the Gap
