@@ -68,8 +68,6 @@ Upon completion of this lab, we were able to understand the following fundamenta
 
 	* Reactive methods for obstacle avoidance
 
-**Allotted Time:** 1 week
-
 [**Lab Template Repository**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab4>) 
 
 Lab 5 - Scan Matching
