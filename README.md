@@ -34,7 +34,7 @@ Executed under tight timelines from August 27, 2022, to December 7, 2022, the pr
 2. Monitor real-time feedback from LiDAR and other sensors using RViz or similar visualization tools.
 3. Execute navigation tasks and observe the system's performance in various scenarios.
 
-# F1TENTH Autonomous Vehicle Workspace
+# F1TENTH Autonomous Vehicle ROS Workspace
 
 This repository contains a ROS workspace which includes our proposed solutions for the first 5 [labs](https://f1tenth-coursekit.readthedocs.io/en/stable/assignments/labs/index.html) of the [F1TENTH Autonomous Vehicle Course](https://f1tenth-coursekit.readthedocs.io/en/stable/introduction/overview.html) provided by the University of Pennsylvania. During our work, we followed this [plan](https://docs.google.com/spreadsheets/d/12VkkMe5WgANmVBByFx13zXS2Ez5oGKWnXdzBt8jrHEU/edit?usp=sharing). For each lab, we were provided with a template repository, which contains the latex source files for lab instructions as well as any skeleton code.
 
