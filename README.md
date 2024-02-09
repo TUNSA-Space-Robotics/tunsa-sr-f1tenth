@@ -40,7 +40,7 @@ Contributions aimed at further enhancing the project's functionalities and addre
 
 ## License
 
-This project is licensed under the [GPL-3.0 License](LICENSE).
+This project is licensed under the [CC0-1.0 License](LICENSE).
 
 ## Contacts
 
