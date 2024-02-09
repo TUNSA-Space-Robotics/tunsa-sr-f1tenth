@@ -34,24 +34,6 @@ Executed under tight timelines from August 27, 2022, to December 7, 2022, the pr
 2. Monitor real-time feedback from LiDAR and other sensors using RViz or similar visualization tools.
 3. Execute navigation tasks and observe the system's performance in various scenarios.
 
-## Contributing
-
-Contributions aimed at further enhancing the project's functionalities and addressing emerging challenges are welcomed.
-
-## License
-
-This project is licensed under the [CC0-1.0 License](LICENSE).
-
-## Contacts
-
-For inquiries or collaboration opportunities, please contact:
-
-- Elyes Khechine: elyeskhechine@gmail.com
-- Amna Smaoui: amna.smaoui@etudiant-enit.utm.tn
-- Firas Raouin: raouinfiras@gmail.com
-- Saber Toumi: toumi.saber.toumi@gmail.com
-- Mohamed Yessine Ksibi: yecinksibi@gmail.com
-
 # F1TENTH Autonomous Vehicle Workspace
 
 This repository contains a ROS workspace which includes our proposed solutions for the first 5 [labs](https://f1tenth-coursekit.readthedocs.io/en/stable/assignments/labs/index.html) of the [F1TENTH Autonomous Vehicle Course](https://f1tenth-coursekit.readthedocs.io/en/stable/introduction/overview.html) provided by the University of Pennsylvania. During our work, we followed this [plan](https://docs.google.com/spreadsheets/d/12VkkMe5WgANmVBByFx13zXS2Ez5oGKWnXdzBt8jrHEU/edit?usp=sharing). For each lab, we were provided with a template repository, which contains the latex source files for lab instructions as well as any skeleton code.
@@ -142,3 +124,21 @@ Upon completion of this lab, we were able to understand the following fundamenta
 **Required Skills:** ROS, Python/C++
 
 [**Lab Template Repository**](https://github.com/f1tenth/f1tenth_labs/tree/master/lab5)
+
+## Contributing
+
+Contributions aimed at further enhancing the project's functionalities and addressing emerging challenges are welcomed.
+
+## License
+
+This project is licensed under the [CC0-1.0 License](LICENSE).
+
+## Contacts
+
+For inquiries or collaboration opportunities, please contact:
+
+- Elyes Khechine: elyeskhechine@gmail.com
+- Amna Smaoui: amna.smaoui@etudiant-enit.utm.tn
+- Firas Raouin: raouinfiras@gmail.com
+- Saber Toumi: toumi.saber.toumi@gmail.com
+- Mohamed Yessine Ksibi: yecinksibi@gmail.com
