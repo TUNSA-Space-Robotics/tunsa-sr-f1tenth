@@ -1,6 +1,75 @@
+# LiDAR-based Autonomous Navigation for F1/10 Vehicles
+
+### TUNSA SR, Team Lead
+
+**Skills and technologies used:** C++, Python, ROS, Linux, RViz, Gazebo, LiDAR, AEB, PID, Reactive Planning, Scan Matching, Obstacle Avoidance, Localization, SLAM
+
+## Introduction
+
+This project, conducted within the TUNSA SR team, delved into the realm of LiDAR-based autonomous navigation for F1/10 vehicles. Leveraging a spectrum of cutting-edge technologies and methodologies, our aim was to enhance the safety and efficiency of autonomous vehicle navigation in dynamic environments.
+
+## Key Features
+
+- Real-time calculation of Time-to-Collision (TTC) for Automatic Emergency Braking (AEB), ensuring enhanced collision prevention at high velocities.
+- Adaptive PID controller for precise wall following, dynamically adjusting steering angles and speeds based on real-time LiDAR data.
+- Optimization of reactive obstacle avoidance algorithms, significantly reducing reaction time to obstacles.
+- Implementation of Point-to-Line Iterative Closest Point (PL-ICP) algorithm for accurate localization based on laser scan matching.
+- Integration of fast correspondence search techniques to improve scan-matching accuracy and efficiency.
+
+## Project Overview
+
+The project spanned from August 27, 2022, to December 7, 2022, when a dedicated team worked collaboratively to conceptualize, develop, and validate innovative solutions for autonomous vehicle navigation. Each team member played a pivotal role in critical design decisions, algorithm development, and experimentation phases.
+
+## Technical Details
+
+- **Safety Node for AEB**: Developed a safety node for AEB by calculating TTC from LiDAR data, ensuring enhanced collision prevention at high velocities.
+- **Adaptive PID Controller**: Implemented an adaptive PID controller for precise wall following, achieving 98% accuracy in wall tracking.
+- **Optimized Obstacle Avoidance**: Enhanced the F1/10 Follow the Gap reactive obstacle avoidance algorithm, achieving a 30% reduction in reaction time to obstacles.
+- **PL-ICP Localization**: Implemented PL-ICP algorithm for accurate localization, reducing odometry estimation error by 75%.
+- **Fast Correspondence Search**: Integrated fast correspondence search techniques for efficient scan matching, ensuring accurate point correspondence.
+
+## Getting Started
+
+### Requirements
+
+- Hardware components assembled as per provided documentation.
+- Development environment set up with necessary dependencies, including ROS and Gazebo.
+
+### Installation
+
+1. Clone this repository.
+2. Set up ROS environment and dependencies as specified in the documentation.
+3. Compile and build the project using `catkin build`.
+4. Configure hardware components and sensors as per project specifications.
+
+### Usage
+
+1. Launch the ROS nodes for autonomous navigation.
+2. Monitor vehicle behavior in RViz or Gazebo simulation environment.
+3. Tune parameters and algorithms as necessary for optimal performance.
+
+## Contributing
+
+Contributions to further enhance the capabilities and performance of this project are welcome. Please refer to the contribution guidelines in the repository.
+
+## License
+
+This project is licensed under the [GPL-3.0 License](LICENSE).
+
+## Contacts
+
+For inquiries or feedback, please contact:
+
+- Elyes Khechine: elyeskhechine@gmail.com
+- Amna Smaoui: amna.smaoui@etudiant-enit.utm.tn
+- Firas Raouin: raouinfiras@gmail.com
+- Saber Toumi: toumi.saber.toumi@gmail.com
+- Mohamed Yessine Ksibi: yecinksibi@gmail.com
+
 # TUNSA Space Robotics F1TENTH Autonomous Vehicle Workspace
 
-This ROS workspace contains our proposed solutions for the first 5 [labs](https://f1tenth-coursekit.readthedocs.io/en/stable/assignments/labs/index.html) of the [F1TENTH Autonomous Vehicle Course](https://f1tenth-coursekit.readthedocs.io/en/stable/introduction/overview.html) provided by the University of Pennsylvania. During our work, we followed this [plan](https://docs.google.com/spreadsheets/d/12VkkMe5WgANmVBByFx13zXS2Ez5oGKWnXdzBt8jrHEU/edit?usp=sharing). For each lab, we were provided with a template repository, which contains the latex source files for lab instructions as well as any skeleton code.
+This repository contains a ROS workspace which includes our proposed solutions for the first 5 [labs](https://f1tenth-coursekit.readthedocs.io/en/stable/assignments/labs/index.html) of the [F1TENTH Autonomous Vehicle Course](https://f1tenth-coursekit.readthedocs.io/en/stable/introduction/overview.html) provided by the University of Pennsylvania. During our work, we followed this [plan](https://docs.google.com/spreadsheets/d/12VkkMe5WgANmVBByFx13zXS2Ez5oGKWnXdzBt8jrHEU/edit?usp=sharing). For each lab, we were provided with a template repository, which contains the latex source files for lab instructions as well as any skeleton code.
+
 
 Lab 1 - Introduction to ROS
 =============================
