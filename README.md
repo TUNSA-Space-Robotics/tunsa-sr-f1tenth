@@ -1,12 +1,12 @@
 # LiDAR-based Autonomous Navigation for F1/10 Vehicles
 
-### TUNSA SR, Team Lead
+### TUNSA Space Robotics
 
 **Skills and technologies used:** C++, Python, ROS, Linux, RViz, Gazebo, LiDAR, AEB, PID, Reactive Planning, Scan Matching, Obstacle Avoidance, Localization, SLAM
 
 ## Introduction
 
-This project, conducted within the TUNSA SR team, delved into the realm of LiDAR-based autonomous navigation for F1/10 vehicles. Leveraging a spectrum of cutting-edge technologies and methodologies, our aim was to enhance the safety and efficiency of autonomous vehicle navigation in dynamic environments.
+This project, conducted within the TUNSA Space Robotics team, delved into the realm of LiDAR-based autonomous navigation for F1/10 vehicles. Leveraging a spectrum of cutting-edge technologies and methodologies, our aim was to enhance the safety and efficiency of autonomous vehicle navigation in dynamic environments.
 
 ## Key Features
 
@@ -66,10 +66,9 @@ For inquiries or feedback, please contact:
 - Saber Toumi: toumi.saber.toumi@gmail.com
 - Mohamed Yessine Ksibi: yecinksibi@gmail.com
 
-# TUNSA Space Robotics F1TENTH Autonomous Vehicle Workspace
+# F1TENTH Autonomous Vehicle Workspace
 
 This repository contains a ROS workspace which includes our proposed solutions for the first 5 [labs](https://f1tenth-coursekit.readthedocs.io/en/stable/assignments/labs/index.html) of the [F1TENTH Autonomous Vehicle Course](https://f1tenth-coursekit.readthedocs.io/en/stable/introduction/overview.html) provided by the University of Pennsylvania. During our work, we followed this [plan](https://docs.google.com/spreadsheets/d/12VkkMe5WgANmVBByFx13zXS2Ez5oGKWnXdzBt8jrHEU/edit?usp=sharing). For each lab, we were provided with a template repository, which contains the latex source files for lab instructions as well as any skeleton code.
-
 
 Lab 1 - Introduction to ROS
 =============================
