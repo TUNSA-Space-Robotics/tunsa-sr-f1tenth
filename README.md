@@ -2,7 +2,7 @@
 
 ### TUNSA Space Robotics
 
-**Skills and technologies used:** C++, Python, ROS, Linux, RViz, Gazebo, LiDAR, AEB, PID, Reactive Planning, Scan Matching, Obstacle Avoidance, Localization, SLAM
+**Technologies:** C++, Python, ROS, Linux, RViz, Gazebo, LiDAR, AEB, PID, Reactive Planning, Scan Matching, Obstacle Avoidance, Localization, SLAM
 
 ## Introduction
 
