@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This project, conducted within the TUNSA Space Robotics team, delved into the realm of LiDAR-based autonomous navigation for F1/10 vehicles. Leveraging a spectrum of cutting-edge technologies and methodologies, our aim was to enhance the safety and efficiency of autonomous vehicle navigation in dynamic environments.
+This project, conducted within the TUNSA Space Robotics team, delved into the realm of LiDAR-based autonomous navigation for F1/10 vehicles. Leveraging a spectrum of cutting-edge technologies and methodologies, our aim was to enhance the safety and efficiency of the F1TENTH autonomous vehicle in dynamic environments.
 
 ## Key Features
 
