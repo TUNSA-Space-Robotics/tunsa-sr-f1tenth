@@ -18,7 +18,7 @@ This project, conducted within the TUNSA Space Robotics team, delved into the re
 
 ## Project Overview
 
-The project spanned from August 27, 2022, to December 7, 2022, when a dedicated team worked collaboratively to conceptualize, develop, and validate innovative solutions for autonomous vehicle navigation. Each team member played a pivotal role in critical design decisions, algorithm development, and experimentation phases.
+The project spanned from August 27, 2022, to December 7, 2022. A dedicated team worked collaboratively to conceptualize, develop, and validate innovative solutions for autonomous vehicle navigation. Each team member played a pivotal role in critical design decisions, algorithm development, and experimentation phases.
 
 ## Technical Details
 
