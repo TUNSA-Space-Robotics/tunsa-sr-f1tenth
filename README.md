@@ -6,51 +6,37 @@
 
 ## Introduction
 
-This project, conducted within the TUNSA Space Robotics team, delved into the realm of LiDAR-based autonomous navigation for F1/10 vehicles. Leveraging a spectrum of cutting-edge technologies and methodologies, our aim was to enhance the safety and efficiency of the F1TENTH autonomous vehicle in dynamic environments.
+This project, entitled "LiDAR-based Autonomous Navigation for F1/10 Vehicles", was conducted under the Tunisian Space Association (TUNSA)'s Space Robotics team. It focuses on developing cutting-edge solutions for autonomous navigation in F1/10 vehicles. Leveraging a combination of advanced algorithms and technologies, our team aimed to enhance collision prevention, wall-following accuracy, obstacle avoidance, and localization.
+
+## Project Scope
+
+Executed under tight timelines from August 27, 2022, to December 7, 2022, the project was led by Elyes Khechine who brought together a dedicated team of skilled professionals to address key challenges in autonomous vehicle navigation. Collaborative efforts and strategic decision-making led to the successful implementation of innovative solutions tailored to F1/10 vehicle requirements.
 
 ## Key Features
 
-- Real-time calculation of Time-to-Collision (TTC) for Automatic Emergency Braking (AEB), ensuring enhanced collision prevention at high velocities.
-- Adaptive PID controller for precise wall following, dynamically adjusting steering angles and speeds based on real-time LiDAR data.
-- Optimization of reactive obstacle avoidance algorithms, significantly reducing reaction time to obstacles.
-- Implementation of Point-to-Line Iterative Closest Point (PL-ICP) algorithm for accurate localization based on laser scan matching.
-- Integration of fast correspondence search techniques to improve scan-matching accuracy and efficiency.
-
-## Project Overview
-
-The project spanned from August 27, 2022, to December 7, 2022. A dedicated team worked collaboratively to conceptualize, develop, and validate innovative solutions for autonomous vehicle navigation. Each team member played a pivotal role in critical design decisions, algorithm development, and experimentation phases.
-
-## Technical Details
-
-- **Safety Node for AEB**: Developed a safety node for AEB by calculating TTC from LiDAR data, ensuring enhanced collision prevention at high velocities.
-- **Adaptive PID Controller**: Implemented an adaptive PID controller for precise wall following, achieving 98% accuracy in wall tracking.
-- **Optimized Obstacle Avoidance**: Enhanced the F1/10 Follow the Gap reactive obstacle avoidance algorithm, achieving a 30% reduction in reaction time to obstacles.
-- **PL-ICP Localization**: Implemented PL-ICP algorithm for accurate localization, reducing odometry estimation error by 75%.
-- **Fast Correspondence Search**: Integrated fast correspondence search techniques for efficient scan matching, ensuring accurate point correspondence.
+- **Automatic Emergency Braking (AEB)**: Real-time calculation of Time-to-Collision (TTC) indicator from LiDAR data for AEB implementation, significantly enhancing collision prevention at high speeds.
+- **Adaptive PID Controller**: Dynamic adjustment of steering angles and speeds based on real-time Hokuyo LiDAR data, achieving precise wall tracking with a 98% accuracy rate.
+- **Reactive Obstacle Avoidance**: Optimization of the Follow the Gap algorithm for proactive obstacle detection and navigation, resulting in a 30% reduction in reaction time to obstacles.
+- **Point-to-Line Iterative Closest Point (PL-ICP) Localization**: Implementation of PL-ICP algorithm for accurate localization using laser scan matching, reducing odometry estimation error by 75%.
+- **Fast Correspondence Search**: Integration of efficient correspondence search techniques for improved scan matching speed and accuracy.
 
 ## Getting Started
 
-### Requirements
-
-- Hardware components assembled as per provided documentation.
-- Development environment set up with necessary dependencies, including ROS and Gazebo.
-
 ### Installation
 
-1. Clone this repository.
-2. Set up ROS environment and dependencies as specified in the documentation.
-3. Compile and build the project using `catkin build`.
-4. Configure hardware components and sensors as per project specifications.
+1. Ensure compatibility and proper setup of hardware components.
+2. Install required software dependencies including ROS, Gazebo, and Python libraries.
+3. Configure system settings and ROS environment variables as per project requirements.
 
 ### Usage
 
-1. Launch the ROS nodes for autonomous navigation.
-2. Monitor vehicle behavior in RViz or Gazebo simulation environment.
-3. Tune parameters and algorithms as necessary for optimal performance.
+1. Launch ROS nodes and sensor modules to initialize the navigation system.
+2. Monitor real-time feedback from LiDAR and other sensors using RViz or similar visualization tools.
+3. Execute navigation tasks and observe the system's performance in various scenarios.
 
 ## Contributing
 
-Contributions to further enhance the capabilities and performance of this project are welcome. Please refer to the contribution guidelines in the repository.
+Contributions aimed at further enhancing the project's functionalities and addressing emerging challenges are welcomed.
 
 ## License
 
@@ -58,7 +44,7 @@ This project is licensed under the [GPL-3.0 License](LICENSE).
 
 ## Contacts
 
-For inquiries or feedback, please contact:
+For inquiries or collaboration opportunities, please contact:
 
 - Elyes Khechine: elyeskhechine@gmail.com
 - Amna Smaoui: amna.smaoui@etudiant-enit.utm.tn
