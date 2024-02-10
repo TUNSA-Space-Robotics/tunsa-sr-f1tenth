@@ -12,7 +12,7 @@ This project, entitled "LiDAR-based Autonomous Navigation for F1/10 Vehicles", w
 
 Executed under tight timelines from August 27, 2022, to December 7, 2022, the project was led by Elyes Khechine who brought together a dedicated team of skilled professionals to address key challenges in autonomous vehicle navigation. Collaborative efforts and strategic decision-making led to the successful implementation of innovative solutions tailored to F1/10 vehicle requirements.
 
-## Key Features
+## Technical Details
 
 - **Automatic Emergency Braking (AEB)**: Real-time calculation of Time-to-Collision (TTC) indicator from LiDAR data for AEB implementation, significantly enhancing collision prevention at high speeds.
 - **Adaptive PID Controller**: Dynamic adjustment of steering angles and speeds based on real-time Hokuyo LiDAR data, achieving precise wall tracking with a 98% accuracy rate.
