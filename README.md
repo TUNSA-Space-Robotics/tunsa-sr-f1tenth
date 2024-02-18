@@ -6,11 +6,11 @@
 
 ## Introduction
 
-This project, entitled "LiDAR-based Autonomous Navigation for F1/10 Vehicles", was conducted under the Tunisian Space Association (TUNSA)'s Space Robotics team. It focuses on developing cutting-edge solutions for autonomous navigation in F1/10 vehicles. Leveraging a combination of advanced algorithms and technologies, our team aimed to enhance collision prevention, wall-following accuracy, obstacle avoidance, and localization.
+This project focuses on developing cutting-edge solutions for autonomous navigation in F1/10 vehicles. Leveraging a combination of advanced algorithms and technologies, our team aimed to enhance collision prevention, wall-following accuracy, obstacle avoidance, and localization.
 
 ## Project Scope
 
-Executed under tight timelines from August 27, 2022, to December 7, 2022, the project was led by Elyes Khechine who brought together a dedicated team of skilled professionals to address key challenges in autonomous vehicle navigation. Collaborative efforts and strategic decision-making led to the successful implementation of innovative solutions tailored to F1/10 vehicle requirements.
+Executed under tight timelines from August 27, 2022, to December 7, 2022, the project was led by Elyes Khechine with a dedicated team from TUNSA Space Robotics to address key challenges in autonomous vehicle navigation. This repository contains a ROS workspace which includes our proposed solutions for the first 5 [labs](https://f1tenth-coursekit.readthedocs.io/en/stable/assignments/labs/index.html) of the [F1TENTH Autonomous Vehicle Course](https://f1tenth-coursekit.readthedocs.io/en/stable/introduction/overview.html) provided by the University of Pennsylvania. During our work, we followed this [plan](https://docs.google.com/spreadsheets/d/12VkkMe5WgANmVBByFx13zXS2Ez5oGKWnXdzBt8jrHEU/edit?usp=sharing). For each lab, we were provided with a template repository, which contains the latex source files for lab instructions as well as any skeleton code.
 
 ## Technical Details
 
@@ -33,10 +33,6 @@ Executed under tight timelines from August 27, 2022, to December 7, 2022, the pr
 1. Launch ROS nodes and sensor modules to initialize the navigation system.
 2. Monitor real-time feedback from LiDAR and other sensors using RViz or similar visualization tools.
 3. Execute navigation tasks and observe the system's performance in various scenarios.
-
-# F1TENTH Autonomous Vehicle ROS Workspace
-
-This repository contains a ROS workspace which includes our proposed solutions for the first 5 [labs](https://f1tenth-coursekit.readthedocs.io/en/stable/assignments/labs/index.html) of the [F1TENTH Autonomous Vehicle Course](https://f1tenth-coursekit.readthedocs.io/en/stable/introduction/overview.html) provided by the University of Pennsylvania. During our work, we followed this [plan](https://docs.google.com/spreadsheets/d/12VkkMe5WgANmVBByFx13zXS2Ez5oGKWnXdzBt8jrHEU/edit?usp=sharing). For each lab, we were provided with a template repository, which contains the latex source files for lab instructions as well as any skeleton code.
 
 Lab 1 - Introduction to ROS
 =============================
