@@ -138,3 +138,4 @@ For inquiries or collaboration opportunities, please contact:
 - Firas Raouin: raouinfiras@gmail.com
 - Saber Toumi: toumi.saber.toumi@gmail.com
 - Mohamed Yessine Ksibi: yecinksibi@gmail.com
+- Mohamed Aziz Laouiti: azizrocke@gmail.com
